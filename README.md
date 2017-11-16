@@ -28,3 +28,7 @@ Please put following in pom.xml to embed tomcat
 5. open http://localhost:8080
 
 6. login with ericbli  password abc125
+
+
+
+***REFwebsystique
