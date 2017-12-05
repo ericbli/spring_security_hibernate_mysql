@@ -27,7 +27,10 @@ Please put following in pom.xml to embed tomcat
 
 5. open http://localhost:8080
 
-6. login with ericbli  password abc125
+6. login with ericbli  password abc125 and can Add New User and define role of the new user
+
+
+ simple to integrate Spring Security with Spring MVC.
 
 
 
